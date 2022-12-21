@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/excute-finance/static/css/main.f82680ec.css",
+    "main.js": "/excute-finance/static/js/main.1d50a1fa.js",
+    "static/media/hero.jpg": "/excute-finance/static/media/hero.8562676a6412e9ec4644.jpg",
+    "static/media/john-doe.png": "/excute-finance/static/media/john-doe.e4675f127b56d41e5c8a.png",
+    "static/media/logo.png": "/excute-finance/static/media/logo.014fa922a0314801d50d.png",
+    "index.html": "/excute-finance/index.html",
+    "main.f82680ec.css.map": "/excute-finance/static/css/main.f82680ec.css.map",
+    "main.1d50a1fa.js.map": "/excute-finance/static/js/main.1d50a1fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f82680ec.css",
+    "static/js/main.1d50a1fa.js"
+  ]
+}
